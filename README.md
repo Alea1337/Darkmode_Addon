@@ -4,13 +4,13 @@
 ```diff
 GUI Elements that got change to Dark version of it:
 + Vanillia GUI Elements
-+ NEU Mod GUI Elements
++ NEU (NotEnoughUpdates) GUI Elements
 + Apec
-+ SBP
-+ SBA
-+ SBC
-+ SBE
-+ SBH
++ SBP (SkyblockPersonalized)
++ SBA (SkyblockAddons)
++ SBC (SkyblockCatia)
++ SBE (SkyblockExtras)
++ SBH (SkyblockHud)
 + Skytils
 
 
