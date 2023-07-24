@@ -1,0 +1,29 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%/                                                                         \%%
+%/                                                                           \%
+%                       Projekt: Darkmode_Addon_v_1.30                        %
+%\                                                                           /%
+%%\                                                                         /%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%/                                                                           \%
+% I have probably miscredited or forgotten to credit some people.             %
+% Please tell me if I did and I will correct it.                              %
+% Discord Tag: Alea#1337                                                      %
+%\                                                                           /%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+                        * Graphics Pack Logo *
+
+* Base Logo     * SkyClint                       * https://discord.gg/CskruM5Veq
+* Base Frame    * FurfSky Reborn                 * http://furfsky.net/
+
+                        * Graphics Pack Inside *
+
+* Base Pack     * Erysrk_UI_Expansion_v1.0.0.2   * -
+* Heads         * Minecraft Heads                * https://minecraft-heads.com/
+* Icons         * FurfSky Reborn                 * http://furfsky.net/
+
+
+
+ 
