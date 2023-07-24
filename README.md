@@ -25,4 +25,7 @@ GUI Elements that got change to Dark version of it:
 ```
 The Monster Clean 
 ![grafik](https://github.com/Alea1337/Darkmode_Addon/assets/40134808/4960bf8e-59b3-4253-9060-7ab5b71685e2)
+Alea1337´s Monster:
+![grafik](https://github.com/Alea1337/Darkmode_Addon/assets/40134808/4cfbf161-a6f9-4ad2-938d-841c1538bdd7)
+
 
