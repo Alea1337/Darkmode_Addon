@@ -14,7 +14,7 @@ Neubuttons extraicons:
 + Custem Mod Scrolls
 
 GUI Elements that got change to Dark version of it:
-+ Vanillia GUI Elements
++ Vanilla GUI Elements
 + NEU (NotEnoughUpdates) GUI Elements
 + Apec
 + SBP (SkyblockPersonalized)
