@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%/                                                                         \%%
 %/                                                                           \%
-%                       Projekt: Darkmode_Addon_v_1.40                        %
+%                       Project: Darkmode_Addon_v_1.40                        %
 %\                                                                           /%
 %%\                                                                         /%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -15,7 +15,7 @@
 
                         * Graphics Pack Logo *
 
-* Base Logo     * SkyClint                       * https://discord.gg/CskruM5Veq
+* Base Logo     * SkyClient                      * https://discord.gg/CskruM5Veq
 * Base Frame    * FurfSky Reborn                 * http://furfsky.net/
 
                         * Graphics Pack Inside *
